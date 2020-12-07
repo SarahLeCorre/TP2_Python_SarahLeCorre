@@ -5,7 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 """TP2 Developpement d'un pendu __ FONCTIONS A APPELER DANS LE PROGRAMME PRINCIPAL
-30/11/20 __ Le Corre Sarah"""
+30/11/20 __ Le Corre Sarah__lien git : https://github.com/SarahLeCorre/TP2_Python_SarahLeCorre.git"""
 
 #IMPORTATION DES BIBLIOTHÈQUES
 import unicodedata

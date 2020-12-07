@@ -8,7 +8,7 @@ Created on Sat Dec  5 19:41:45 2020
 
 
 """TP2 Developpement d'un pendu __ Deuxième Version__ PROGRAMME PRINCIPAL
-30/11/20 __ Le Corre Sarah"""
+30/11/20 __ Le Corre Sarah__lien git : https://github.com/SarahLeCorre/TP2_Python_SarahLeCorre.git"""
 
 #IMPORTATION DES FONCTIONS
 from fonctions import  fichierMots
